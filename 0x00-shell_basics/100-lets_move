@@ -1,2 +1,2 @@
 #!/bin/bash
-mv "$file" /tmp/u/
+for file in [A-Z]*; mv "$file" /tmp/u/
